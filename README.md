@@ -1,1 +1,1 @@
-Formulario para aplicar no wordpress
+Plugin de formulario para aplicar no wordpress
